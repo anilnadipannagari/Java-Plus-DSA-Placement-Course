@@ -1,3 +1,5 @@
+Day 1 Completed at 14/July/2024
+
 # What is a proramming language?
 To communicate with a person, we need a specific language, similarly to communicate with computers, 
 programmers also need a language which is called Programming language.
@@ -61,10 +63,10 @@ than more structured and compiled languages such as C and C++.
 In Java, memory management is the process of allocation and de-allocation of objects, called Memory management. 
 Java does memory management automatically. Java uses an automatic memory management system called a garbage collector.
 
+
 # Stack Memory vs Heap Memory:
 1. Varaibles are stored in stack memory.
 2. Objects are stored in Heaps.
-
 
 
 
